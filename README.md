@@ -1,16 +1,17 @@
 # PayLink Demo Project
 
-### 0. Visa Direct Sandbox Integration
-`Ce projet est une démonstration d’intégration avec Visa Direct (sandbox).
+### Visa Direct Sandbox Integration
+
+Ce projet est une démonstration d’intégration avec Visa Direct (sandbox).
 Il illustre deux fonctionnalités principales :
 
-Push Funds Transaction (PFT)
-→ Sert à envoyer de l’argent depuis le compte d’un expéditeur vers le compte d’un bénéficiaire.
-Exemple : un wallet mobile ou une microfinance qui veut créditer le compte d’un client.
+- Push Funds Transaction (PFT)
+  ```→ Sert à envoyer de l’argent depuis le compte d’un expéditeur vers le compte d’un bénéficiaire.
+    Exemple : un wallet mobile ou une microfinance qui veut créditer le compte d’un client.```
 
-Transaction Query API
-→ Permet de suivre l’état d’une transaction (réussie, en attente, échouée).
-Exemple : vérifier si un transfert envoyé par Visa Direct a bien été reçu par le bénéficiaire`
+- Transaction Query API
+  ```→ Permet de suivre l’état d’une transaction (réussie, en attente, échouée).
+    Exemple : vérifier si un transfert envoyé par Visa Direct a bien été reçu par le bénéficiaire```
 
 ### 1. Créer un projet Visa Developer(pour avoir votre propre projet)
 
