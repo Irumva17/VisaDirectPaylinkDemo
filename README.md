@@ -20,7 +20,20 @@ Follow these steps to set up your environment and run the project.
 
 Jusqu'à présent vous avez votre projet et vos identifiants.
 
-### 2. configurer le projet 
+### 2. voici le structure de votre projet
+
+```
+├── data.py
+├── helloworld.py
+├── main.py
+├── keys
+│   ├── cert.pem
+│   └── votreKey.pem
+├── requirements.txt
+└── README.md
+```
+
+### 3. configurer le projet 
 
 - vous aller creer un dossier keys/ cela que vous aller mettre votre propre cert.pem et key.pem que vous avez deja enregistrer dans votre ordinateur.
 
@@ -37,8 +50,6 @@ Jusqu'à présent vous avez votre projet et vos identifiants.
 - apres ca vous pouvez lancer enfin le main.py c'est la que j'ai fait une transaction push founds transaction et query api , le push founds c'est pour envoyer un le montant a quelq'un tandisque le query api c'est pour voir la liste de ce que vous avez push founds
 
 
-
-
-
+### 4. lancer le projet
 
 
