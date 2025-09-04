@@ -39,10 +39,13 @@ Jusqu'à présent vous avez votre projet et vos identifiants.
 
 - puis creer data.py cela que vous aller mettre vos identifiants 
     `exemple`
+    
+    ```
     user_id = "Votre Id"  
     password = "Votre Password" 
     cert = "keys/cert.pem"
-    key = "keys/VotreKey.pem"
+    key = "keys/VotreKey.pem"   
+    ```
 
 - apres ca vous pouvez lancer le Helloworld.py, tape ce (python helloworld.py) pour la verification de ce que vous avez fait et la reponse devrait etre `200(succees)` et un message qui dit `hello world`
 
