@@ -58,7 +58,11 @@ Jusqu'à présent vous avez votre projet et vos identifiants.
 
 - apres ca vous pouvez lancer enfin le main.py c'est la que j'ai fait une transaction push founds transaction et query api , le push founds c'est pour envoyer un le montant a quelq'un tandisque le query api c'est pour voir la liste de ce que vous avez push founds
 
+- ``` les reponse doit etre 200(succees)```
+
 
 ### 4. lancer le projet
 
+- si tu veux tester que tes identifiants sont bien configure tape ce `helloworld.py`
+- si tu veux tester que tes transactions sont bien configure tape ce `main.py`
 
