@@ -1,6 +1,15 @@
 # PayLink Demo Project
 
-Ce projet est une démonstration de l’intégration avec Visa Direct à l’aide de l’environnement sandbox.
+`Ce projet est une démonstration d’intégration avec Visa Direct (sandbox).
+Il illustre deux fonctionnalités principales :
+
+Push Funds Transaction (PFT)
+→ Sert à envoyer de l’argent depuis le compte d’un expéditeur vers le compte d’un bénéficiaire.
+Exemple : un wallet mobile ou une microfinance qui veut créditer le compte d’un client.
+
+Transaction Query API
+→ Permet de suivre l’état d’une transaction (réussie, en attente, échouée).
+Exemple : vérifier si un transfert envoyé par Visa Direct a bien été reçu par le bénéficiaire`
 
 
 ## Visa Direct Sandbox Integration
@@ -39,7 +48,7 @@ Jusqu'à présent vous avez votre projet et vos identifiants.
 
 - puis creer data.py cela que vous aller mettre vos identifiants 
     `exemple`
-    
+
     ```
     user_id = "Votre Id"  
     password = "Votre Password" 
